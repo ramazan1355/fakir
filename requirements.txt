@@ -1,0 +1,10 @@
+# Requirements for Screen Streaming to Samsung TVs
+
+# Basic dependencies
+Flask
+requests
+opencv-python
+Pillow
+
+# Optional dependencies
+PyQt5
